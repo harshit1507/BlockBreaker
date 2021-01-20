@@ -29,7 +29,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4230056163134956395}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.075, y: 0.771, z: 0}
+  m_LocalPosition: {x: 7.994, y: 0.802, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -103,7 +103,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 0
 --- !u!58 &4230056163134956399
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -140,7 +140,7 @@ MonoBehaviour:
   ballSounds:
   - {fileID: 8300000, guid: 004e4fb212bae5d4580b64b387b43dca, type: 3}
   - {fileID: 8300000, guid: ba5cca90778048d4ea1e8c25bdbdbc63, type: 3}
-  - {fileID: 8300000, guid: 16c51f20085b0144384e0d4d18c339f0, type: 3}
+  - {fileID: 8300000, guid: babf112715bcc2e408572786c4592b13, type: 3}
   - {fileID: 8300000, guid: 9a6911940a4cfff4caeba7e1dcd8d1de, type: 3}
   randomFactor: 0.2
 --- !u!82 &6836109574757574667

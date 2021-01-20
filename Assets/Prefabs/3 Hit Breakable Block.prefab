@@ -119,7 +119,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c810542aa0b49154c9b22d59d90390cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 8300000, guid: 9d425c827e7683041bbbe74ca420fab9, type: 3}
+  breakSound: {fileID: 8300000, guid: babf112715bcc2e408572786c4592b13, type: 3}
   hitSprites:
   - {fileID: 21300000, guid: c2fe2cc54e0072142b96a155a155e6dd, type: 3}
   - {fileID: 21300000, guid: 1f4f6f45af7402d45a86b7049cc13b6e, type: 3}
